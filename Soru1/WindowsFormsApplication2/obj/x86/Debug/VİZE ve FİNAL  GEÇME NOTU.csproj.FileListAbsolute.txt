@@ -1,0 +1,2 @@
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Soru1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Soru1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
